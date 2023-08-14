@@ -1,0 +1,78 @@
+.f-about-social a {
+
+	font-size: 14px;
+
+	width: 50px;
+
+	height: 50px;
+
+	display: inline-block;
+
+	text-align: center;
+
+	line-height: 46px;
+
+	border-radius: 10px;
+
+	border: 2px solid #31353a;
+
+	color: #777;
+
+	
+}
+
+.f-about-social a:hover {
+
+	background-color: #f7d9c4;
+
+	border-color: #f7d9c4;
+
+	color: #1b2026;
+
+}
+
+.f-about-social .fa-title {
+
+	
+
+	font-size: 14px;
+
+	font-weight: 700;
+
+	margin-bottom: 25px;
+
+	letter-spacing: 0;
+
+}
+.f-about-social a {
+
+	border-color: #eeeeee;
+
+	background: #eeeeee;
+
+}
+
+.f-about-social a:hover {
+
+	color: #fff;
+
+	border-color:  #2e4db9;
+
+	background:  #2e4db9;
+
+}
+/* .fa-title {
+
+	color: #fff;
+
+	font-size: 14px;
+
+	font-weight: 700;
+
+	margin-bottom: 25px;
+
+	letter-spacing: 0;
+
+} */
+
+
